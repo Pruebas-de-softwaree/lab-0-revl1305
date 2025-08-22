@@ -28,6 +28,7 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
+    print('el resultado de menos 9',square_root('A'))
     print('callate')
 
 
