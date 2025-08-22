@@ -28,8 +28,8 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print('el resultado de menos 9',square_root('A'))
-    print('callate')
+    print('el resultado de elevar 2 a la -9',power(2,-9))
+    
 
 
     print("end test")
