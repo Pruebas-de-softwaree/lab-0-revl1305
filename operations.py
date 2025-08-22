@@ -28,7 +28,7 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print('el resultado de elevar 2 a la -9',power(2,-9))
+    print('dividir 2 entre 0',divide(2, 0))
     
 
 
