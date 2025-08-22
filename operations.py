@@ -28,7 +28,7 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print('dividir 2 entre 0',divide(2, 0))
+    print('probando la funcion de maximo entre 1,2,3 es:',maximum([1,2,3]))
     
 
 
